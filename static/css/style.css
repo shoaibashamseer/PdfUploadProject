@@ -1,0 +1,10 @@
+.banner{
+    height:200px;
+    width:100%;
+}
+
+.banner-title {
+position:absolute;
+top:10%;
+left:40%;
+ }
